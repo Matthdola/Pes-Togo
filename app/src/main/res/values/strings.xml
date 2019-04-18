@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">P E S-TOGO</string>
+
+    <string name="contact">Contact: </string>
+    <string name="location">P.E.S - TOGO Sarl Solar Energy \nBd KARA not far from the pharmacy GBOSSIME \n03 BP 30986 Lome - Togo</string>
+    <string name="phone_number">+228 97 01 09 30</string>
+    <string name="email">achat@pestogo-shop.com</string>
+    <string name="address">Lome TOGO, Tokoin Casablanca, Rue 24</string>
+    <string name="website">www.pestogo.com \nwww.pestogo-shop.com</string>
+    <string name="activites">Principales Activities:</string>
+    <string name="descrip_activites">PES-TOGO, Energie Solaire is specialised in :</string>
+    <string name="formation">Training on solar equipment</string>
+    <string name="etude_conception">Study and design of projects on solar energy:</string>
+    <string name="vente_installation">Sale and installation of solar equipment</string>
+    <string name="electricite_batiment">Building and Industrial Electricity Work</string>
+    <string name="reparation">Repair of all solar equipment</string>
+    <string name="operation_hour">We are available 24/7</string>
+    <string name="presentation_pes">
+     We are a new energy company installed in TOGO but we already exist in other states.
+        \nWe know that it is from forms of energy such as solar, turbine and wind turbine that man
+        manages to produce direct current alternating without leaving side effects harmful to our nature.
+    </string>
+</resources>

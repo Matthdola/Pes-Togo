@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">P E S-TOGO</string>
+    <string name="contact">Contact: </string>
+    <string name="location">P.E.S - TOGO Sarl Energie Solaire\nBd de la KARA non loin de la pharmacie GBOSSIME\n03 BP 30986 Lomé - Togo</string>
+    <string name="phone_number">+228 97 01 09 30</string>
+    <string name="email">achat@pestogo-shop.com</string>
+    <string name="address">Lome TOGO, Tokoin Casablanca, Rue 24</string>
+    <string name="website">www.pestogo.com\nwww.pestogo-shop.com</string>
+    <string name="activites">Activités principales:</string>
+    <string name="descrip_activites">PES-TOGO, Energie Solaire est spécialisé dans:</string>
+
+    <string name="formation"> Formation sur les équipement solaires</string>
+
+    <string name="etude_conception">Etude et conception de projets sur l\'énergie solaire:</string>
+
+    <string name="vente_installation">Vente et Installation d\'équipements solaires</string>
+
+    <string name="electricite_batiment"> Travaux d\'électricité batiment et Industriel</string>
+    <string name="operation_hour">Nous sommes disponible 24/7</string>
+    <string name="reparation"> Réparation de tous les équipement solaires</string>
+   <string name="presentation_pes">
+        Nous sommes une société d’énergie nouvelle installée au TOGO mais nous existons déjà dans d\’autres Etats.\nNous savons que c\’est à partir des formes d\’énergie tels que le solaire,
+        la turbine et l\’éolienne que l\’Homme arrive à produire du courant continu au
+        courant alternatif sans laisser des effets secondaires nuisibles à notre nature.
+    </string>
+</resources>
